@@ -1,50 +1,50 @@
 ---
 # Display name
-title: 吳健雄
+title: Blaise Binama, Ph.D
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Blaise
+last_name: Binama
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ⛹🏿️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Independent Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: 
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include plant ecology, chemical ecology with (a)biotic interactions, plant genetics, bodiversity and conservation, as well as the repercussions of climate change.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Plant chemical ecology and plant genetics
+  - Biodiversity and Conservation
+  - Effect of climate change
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Natural Sciences
+      institution: Bielefeld University
+      year: 2023
+    - course: Msc in Biodiversity and Collection Management
+      institution: TÜ Dresden/IHI Zittau
+      year: 2018
+    - course: BSc in Biology/ Botany and Conservation
+      institution: University of Rwanda
+      year: 2016
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -93,25 +93,22 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
+    link: /#contact
+  - display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon: twitter
+    icon_pack: fab
+    label: Follow me on Twitter
+    link: https://twitter.com/BlaiseBinama
+  - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/chem_eco/forschung/etablierungsmechanismen/index.xml
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/bbinama
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
+    link: https://www.linkedin.com/in/blaise-binama
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -120,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a passionate plant ecologist with a knack for diving into data-driven solutions. My journey in biological sciences has taken me from exploring the biodiversity of tropical forests in Rwanda to plant population genetics and unraveling the complexities of invasive plant species in Central Europe. Currently, I am independent researcher on a mission to integrate ecology with state-of-the-art data science methodologies.
 {style="text-align: justify;"}
