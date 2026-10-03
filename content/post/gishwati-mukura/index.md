@@ -9,7 +9,7 @@ tags:
   - Restoration
 ---
 
-This project started in late 2024 by assessing invasive plants and their drivers in the Gishwati-Mukura Biosphere Reserve ([read the paper](https://doi.org/10.1002/2688-8319.70333)).
+This project started in late 2024 by assessing invasive plants and their drivers in the Gishwati-Mukura Biosphere Reserve ([read the paper](https://doi.org/10.1002/2688-8319.70333)). There are still ongoing research in both forests.
 
 ## Gishwati Forest
 
