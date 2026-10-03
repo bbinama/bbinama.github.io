@@ -144,7 +144,7 @@ sections:
           - publication
     design:
       columns: '2'
-      view: citation
+      view: card
   - block: collection
     id: talks
     content:
