@@ -17,21 +17,23 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Independent Researcher
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 
-    url: 
+  - name: Georg-August-Universität Göttingen
+    url: 'https://www.uni-goettingen.de/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include plant ecology, chemical ecology with (a)biotic interactions, plant genetics, bodiversity and conservation, as well as the repercussions of climate change.
+bio: My research interests include plant ecology, chemical ecology with (a)biotic interactions, plant genetics, biodiversity and conservation, as well as the repercussions of climate change.
 
 # Interests to show in About widget
 interests:
   - Plant chemical ecology and plant genetics
-  - Biodiversity and Conservation
-  - Effect of climate change
+  - Invasive plants and forest restoration
+  - Remote sensing and biomass of tropical forests
+  - Biodiversity conservation and World Heritage
+  - Agroecology and climate change
 
 # Education to show in About widget
 education:
@@ -40,7 +42,7 @@ education:
       institution: Bielefeld University
       year: 2023
     - course: Msc in Biodiversity and Collection Management
-      institution: TÜ Dresden/IHI Zittau
+      institution: TU Dresden / IHI Zittau
       year: 2018
     - course: BSc in Biology/ Botany and Conservation
       institution: University of Rwanda
@@ -49,41 +51,56 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Research & data
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
+      - name: R programming
+        description: 'Statistics, mixed models, data visualisation'
+        percent: 90
+        icon: r-project
         icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: GIS & remote sensing
+        description: 'ArcGIS, CLASlite, hyperspectral data'
+        percent: 80
+        icon: map-location-dot
+        icon_pack: fas
+      - name: Species distribution modelling
+        description: 'MaxEnt, ensemble SDMs'
+        percent: 80
         icon: chart-line
         icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
+      - name: Population genetics
+        description: 'STRUCTURE'
+        percent: 70
+        icon: dna
         icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+  - name: Languages
+    color: '#2e7d32'
+    color_border: '#4caf50'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
+      - name: Kinyarwanda
+        description: 'Native'
         percent: 100
-        icon: cat
+        icon: language
         icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
+      - name: English
+        description: 'Very good'
+        percent: 90
+        icon: language
+        icon_pack: fas
+      - name: French
+        description: 'Good'
+        percent: 70
+        icon: language
+        icon_pack: fas
+      - name: Swahili
+        description: 'Good'
+        percent: 70
+        icon: language
+        icon_pack: fas
+      - name: German
+        description: 'Intermediate (B1)'
+        percent: 50
+        icon: language
         icon_pack: fas
 
 # Social/Academic Networking
@@ -111,11 +128,11 @@ social:
     link: https://www.linkedin.com/in/blaise-binama
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: 'uploads/CURRICULUM%20VITAE-BBinama.pdf'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a passionate plant ecologist with a knack for diving into data-driven solutions. My journey in biological sciences has taken me from exploring the biodiversity of tropical forests in Rwanda to plant population genetics and unraveling the complexities of invasive plant species in Central Europe. Currently, I am independent researcher on a mission to integrate ecology with state-of-the-art data science methodologies.
+I am a passionate plant ecologist with a knack for diving into data-driven solutions. My journey in biological sciences has taken me from exploring the biodiversity of tropical forests in Rwanda to plant population genetics and unraveling the complexities of invasive plant species in Central Europe. Currently, I am a postdoctoral researcher at the University of Göttingen, working on agroecological weed management across Europe, while leading research on forest biomass in Kibale National Park (Uganda) and on invasive plants in forest restoration in Rwanda. I also contribute to World Heritage evaluations and capacity building with IUCN, UNESCO and ICCROM.
 {style="text-align: justify;"}
