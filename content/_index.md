@@ -124,6 +124,18 @@ sections:
       view: showcase
       flip_alt_rows: true
   - block: collection
+    id: posts
+    content:
+      title: Recent Posts
+      count: 5
+      filters:
+        folders:
+          - post
+      order: desc
+    design:
+      view: compact
+      columns: '2'
+  - block: collection
     id: publications
     content:
       title: Publications
