@@ -7,7 +7,7 @@ authors:
 date: "2026-01-01T00:00:00Z"
 publishDate: "2026-01-01T00:00:00Z"
 publication_types: ["article"]
-publication: "Submitted to *Ecological Solutions and Evidence*"
+publication: "*Ecological Solutions and Evidence* https://doi.org/10.1002/2688-8319.70333"
 featured: false
 projects: [gishwati-mukura-restoration]
 ---
